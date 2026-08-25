@@ -1,1 +1,8 @@
+HEAD
 Verzija 2.0-A
+
+Verzija 2.0-B
+ grana-b
+
+
+Izmeneeee
